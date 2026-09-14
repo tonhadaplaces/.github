@@ -23,15 +23,11 @@
 
 *In development.*
 
-### A terminal for workspaces and agents
+### Tonton ADE terminal for workspaces and agents
 
 A terminal app built around **workspaces, Git worktrees, and AI agents**. A place to organize development environments and bring agents into your workflow.
 
 *In development. Name to be announced.*
-
-### Tonton Ateliê
-
-Our **3D printing** business. The side of Tonhada Places where ideas leave the screen and take shape in the real world.
 
 ## What guides us
 
